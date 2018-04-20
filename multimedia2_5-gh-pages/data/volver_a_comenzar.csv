@@ -2,6 +2,9 @@ error,gravedad,clase
 "Lorem ipsum dolor sit amet",menor,herida
 "Sed eget elit ut enim cursus",menor,herida
 "Donec at ipsum eu ante pretium",menor,fracaso
+"No me salió vale otro cristal",menor,desamor
+"Quisque in risus non sem sagittis",menor,desamor
+"No puedo tomarme el yogurt",menor,fracaso
 "Nunc efficitur libero placerat",menor,fracaso
 "Fusce maximus dui eu rutrum",menor,desamor
 "Quisque in risus non sem sagittis",menor,desamor
@@ -15,3 +18,5 @@ error,gravedad,clase
 "Duis gravida sapien nec auctor bibendum",peor,desamor
 "Cras tincidunt mauris quis tempor",peor,mentira
 "Etiam euismod dui at euismod pharetra",peor,mentira
+"Amo la clase de Economia",peor,mentira
+
