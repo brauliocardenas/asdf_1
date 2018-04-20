@@ -1,11 +1,11 @@
 error,gravedad,clase
-"Lorem ipsum dolor sit amet",menor,herida
-"Sed eget elit ut enim cursus",menor,herida
-"Donec at ipsum eu ante pretium",menor,fracaso
+"Cuando me saque la p*ta",menor,herida
+"Me diagnosticaron tunel carpiano",menor,herida
+"Tengo sed y es lunes",menor,fracaso
 "No me salió vale otro cristal",menor,desamor
-"Quisque in risus non sem sagittis",menor,desamor
-"No puedo tomarme el yogurt",menor,fracaso
-"Nunc efficitur libero placerat",menor,fracaso
+"Le dije hola y ni pescó",menor,desamor
+"Aun no puedo tomarme el yogurt",menor,fracaso
+"Cuando me eché math",menor,fracaso
 "Fusce maximus dui eu rutrum",menor,desamor
 "Quisque in risus non sem sagittis",menor,desamor
 "Phasellus pharetra orci in maximus",menor,mentira
@@ -16,7 +16,6 @@ error,gravedad,clase
 "Ut imperdiet nisl non eros pulvinar",peor,fracaso
 "Nam fringilla mauris maximus convallis",peor,desamor
 "Duis gravida sapien nec auctor bibendum",peor,desamor
-"Cras tincidunt mauris quis tempor",peor,mentira
-"Etiam euismod dui at euismod pharetra",peor,mentira
+"Soy el reptiliano máximo",peor,mentira
+"El lambo es mejor que el GTR",peor,mentira
 "Amo la clase de Economia",peor,mentira
-
